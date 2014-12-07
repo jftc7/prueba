@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 abc
+=======
+a
+b
+>>>>>>> nuevaRama
